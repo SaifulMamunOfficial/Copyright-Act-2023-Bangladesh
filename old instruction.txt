@@ -1,0 +1,1970 @@
+# বাংলাদেশ Copyright Act, 2023
+
+## Complete Legal Knowledge & Learning Website
+
+### Developer / AI Agent Master Documentation
+
+---
+
+# ১. Project Overview
+
+আমরা বাংলাদেশের **কপিরাইট আইন, ২০২৩** নিয়ে একটি পূর্ণাঙ্গ, আধুনিক, searchable এবং user-friendly ওয়েবসাইট তৈরি করতে চাই।
+
+এটি শুধুমাত্র Copyright Act-এর HTML কপি হবে না।
+
+মূল লক্ষ্য হলো:
+
+> **একজন সাধারণ মানুষ যেন আইন না জানা অবস্থায় এই ওয়েবসাইটে এসে নিজের প্রয়োজন অনুযায়ী কপিরাইট আইন খুঁজে, পড়ে, বুঝতে এবং বাস্তব পরিস্থিতিতে কীভাবে প্রযোজ্য তা জানতে পারে।**
+
+বর্তমান আইনটি বড় এবং ধারাবাহিকভাবে পড়লে সাধারণ ব্যবহারকারীর জন্য অনেক জায়গায় বোঝা কঠিন। তাই আমাদের কাজ হলো **আইন পরিবর্তন না করে আইনকে একটি উন্নত digital knowledge system হিসেবে উপস্থাপন করা।**
+
+---
+
+# ২. Primary Source of Truth
+
+মূল আইনের একমাত্র authoritative source হিসেবে ব্যবহার করতে হবে:
+
+**Bangladesh Laws — BDLaws**
+
+Copyright Act, 2023:
+
+https://bdlaws.minlaw.gov.bd/act-print-1452.html
+
+আইনটি:
+
+* Copyright Act, 2023
+* ২০২৩ সালের ৩৪ নং আইন
+* কার্যকর: ১৮ সেপ্টেম্বর ২০২৩
+* Copyright Act, 2000 রহিত করে প্রণীত
+
+BDLaws-এর বর্তমান পূর্ণ পাঠই হবে legal source of truth।
+
+Developer/AI agent কোনো ধারা নিজের memory, generic legal knowledge, অন্য দেশের copyright law অথবা AI-generated interpretation থেকে পূরণ করবে না।
+
+---
+
+# ৩. অত্যন্ত গুরুত্বপূর্ণ Legal Content Rule
+
+এই website-এর content তিনটি স্তরে আলাদা করতে হবে।
+
+## Layer 1 — আইন
+
+এখানে থাকবে:
+
+> আইনের প্রকৃত/সরকারি পাঠ
+
+এটি কোনোভাবে rewrite, simplify, paraphrase বা modify করা যাবে না।
+
+---
+
+## Layer 2 — সহজ ব্যাখ্যা
+
+এখানে সাধারণ মানুষের ভাষায় ব্যাখ্যা করা হবে:
+
+> এই ধারাটি আসলে কী বোঝাচ্ছে?
+
+এটি **আইনের মূল পাঠ নয়**।
+
+প্রতিটি explanation-এর পাশে/উপরে পরিষ্কারভাবে বোঝাতে হবে এটি explanatory content।
+
+---
+
+## Layer 3 — বাস্তব প্রয়োগ
+
+এখানে practical example থাকবে।
+
+যেমন:
+
+> “আমি একটি গান লিখেছি, অন্য একজন সুর করেছে, তৃতীয় ব্যক্তি গানটি গেয়েছে এবং চতুর্থ ব্যক্তি recording করেছে। কার কী অধিকার?”
+
+তারপর সংশ্লিষ্ট ধারাগুলো দেখানো হবে।
+
+---
+
+# ৪. Legal Accuracy Policy
+
+এটি অত্যন্ত গুরুত্বপূর্ণ।
+
+AI agent:
+
+* কোনো আইন বানাবে না
+* কোনো subsection বাদ দেবে না
+* কোনো sentence নিজের মতো করে “আইনের ভাষা” হিসেবে লিখবে না
+* বাংলাদেশের আইনের জায়গায় US/UK/India copyright law ব্যবহার করবে না
+* কোনো ambiguous provision-কে নিশ্চিত legal conclusion হিসেবে দেখাবে না
+* AI & copyright নিয়ে অনুমানকে আইন হিসেবে দেখাবে না
+* court precedent না থাকলে precedent আছে বলে লিখবে না
+
+যেখানে আইন স্পষ্ট নয়:
+
+> **“এই বিষয়ে Copyright Act, 2023-এ সরাসরি/স্পষ্ট বিধান পাওয়া যায় না।”**
+
+এভাবে দেখাতে হবে।
+
+যেখানে interpretation প্রয়োজন:
+
+> **“ব্যাখ্যামূলক বিষয় — এটি আইনের সরাসরি ভাষা নয়।”**
+
+---
+
+# ৫. Website-এর মূল ধারণা
+
+Website-এর চারটি প্রধান navigation layer থাকবে।
+
+## Layer A — Read the Law
+
+আইনের original structure:
+
+```text
+Chapter 01
+Chapter 02
+...
+Chapter 19
+```
+
+এবং:
+
+```text
+Section 1
+Section 2
+...
+Section 128
+```
+
+---
+
+# ৬. Layer B — Browse by Topic
+
+সাধারণ মানুষের জন্য:
+
+```text
+সাহিত্য
+নাটক
+সংগীত
+শিল্প
+ফটোগ্রাফ
+চলচ্চিত্র
+শব্দ-ধ্বনি রেকর্ডিং
+সম্প্রচার
+সম্পাদন/Performance
+স্থাপত্য
+ডাটাবেজ
+ডিজিটাল কর্ম
+লোকজ্ঞান
+লোকসংস্কৃতি
+```
+
+---
+
+# ৭. Layer C — Browse by Legal Issue
+
+```text
+প্রণেতা
+স্বত্বাধিকারী
+প্রথম স্বত্বাধিকারী
+মালিকানা
+কপিরাইটের মেয়াদ
+Assignment
+License
+Royalty
+Registration
+Infringement
+Permitted Use
+Civil Remedy
+Criminal Offence
+Appeal
+International Copyright
+Copyright Society
+```
+
+---
+
+# ৮. Layer D — “আমি কী করতে চাই?”
+
+এটি website-এর সবচেয়ে user-friendly অংশগুলোর একটি হবে।
+
+Examples:
+
+```text
+আমি একটি বই লিখেছি
+আমি একটি গান লিখেছি
+আমি একটি গান প্রকাশ করতে চাই
+আমি অন্যের গান ব্যবহার করতে চাই
+আমি একটি চলচ্চিত্র বানাতে চাই
+আমি YouTube-এ ভিডিও দিতে চাই
+আমি Facebook-এ অন্যের ছবি ব্যবহার করতে চাই
+আমি একটি নাটক মঞ্চস্থ করতে চাই
+আমি অন্যের লেখা অনুবাদ করতে চাই
+আমি কপিরাইট বিক্রি করতে চাই
+আমি কাউকে লাইসেন্স দিতে চাই
+আমি Copyright Registration করতে চাই
+কেউ আমার কাজ কপি করেছে
+AI দিয়ে আমি একটি কাজ তৈরি করেছি
+আমার কাজ কেউ YouTube-এ ব্যবহার করেছে
+```
+
+প্রতিটি option relevant legal sections-এর দিকে user-কে নিয়ে যাবে।
+
+---
+
+# ৯. Website Information Architecture
+
+```text
+/
+├── Home
+├── Search
+├── What Do You Want To Do?
+│
+├── Copyright Basics
+│
+├── Read The Law
+│   ├── Chapter 01
+│   ├── Chapter 02
+│   ├── ...
+│   └── Chapter 19
+│
+├── Works
+│   ├── Literature
+│   ├── Drama
+│   ├── Music
+│   ├── Artistic Work
+│   ├── Photography
+│   ├── Film
+│   ├── Sound Recording
+│   ├── Broadcast
+│   ├── Performance
+│   ├── Architecture
+│   ├── Database
+│   ├── Digital Work
+│   └── Folk Culture
+│
+├── Ownership
+├── Author / Creator
+├── Duration
+├── Assignment
+├── Licensing
+├── Royalty
+├── Registration
+├── Infringement
+├── Permitted Use
+├── Civil Remedies
+├── Criminal Offences
+├── Appeal
+├── International Copyright
+├── Copyright Society
+├── Online / Digital Copyright
+├── AI & Copyright
+├── FAQ
+├── Legal Dictionary
+└── Original Law
+```
+
+---
+
+# ১০. Section/Clause Database
+
+আইনের প্রতিটি ধারা database entity হিসেবে রাখতে হবে।
+
+Structure:
+
+```text
+COPY-001
+COPY-002
+COPY-003
+...
+COPY-128
+```
+
+প্রতিটি section-এর minimum schema:
+
+```json
+{
+  "id": "COPY-015",
+  "section": "15",
+  "chapter": 4,
+  "title_bn": "",
+  "title_en": "",
+  "official_text_bn": "",
+  "plain_explanation_bn": "",
+  "practical_examples": [],
+  "applicable_topics": [],
+  "related_sections": [],
+  "faq": [],
+  "source_url": "",
+  "source_verified": true,
+  "last_verified": ""
+}
+```
+
+---
+
+# ১১. Section Page Template
+
+প্রতিটি ধারা একই structure অনুসরণ করবে।
+
+## Header
+
+```text
+ধারা ১৫
+কপিরাইটের প্রথম স্বত্বাধিকারী
+```
+
+তার নিচে:
+
+```text
+অধ্যায় ৪
+কপিরাইটের স্বত্ব এবং মালিকদের অধিকার
+```
+
+---
+
+## A. আইনের মূল পাঠ
+
+Original Bangla text।
+
+এখানে কোনো AI rewriting করা যাবে না।
+
+---
+
+## B. সহজ ভাষায়
+
+উদাহরণ:
+
+> এই ধারার সাধারণ নিয়ম হলো, কোনো কর্মের প্রণেতা সেই কর্মের কপিরাইটের প্রথম স্বত্বাধিকারী হন। তবে আইন কিছু বিশেষ পরিস্থিতিতে ব্যতিক্রম করেছে।
+
+---
+
+## C. বাস্তব উদাহরণ
+
+Example cards।
+
+---
+
+## D. এই ধারা কার জন্য গুরুত্বপূর্ণ?
+
+যেমন:
+
+```text
+✓ Writer
+✓ Composer
+✓ Singer
+✓ Photographer
+✓ Film Producer
+✓ Digital Creator
+✓ Publisher
+```
+
+---
+
+## E. Related Sections
+
+যেমন:
+
+```text
+ধারা 2
+ধারা 14
+ধারা 16
+ধারা 17
+ধারা 22
+```
+
+---
+
+## F. Related Topics
+
+```text
+Ownership
+Author
+Assignment
+Digital Work
+Music
+```
+
+---
+
+## G. FAQ
+
+প্রাসঙ্গিক প্রশ্ন।
+
+---
+
+# ১২. Chapter Structure
+
+আইনের ১৯টি অধ্যায় website-এ হুবহু রাখা হবে।
+
+## Chapter 01
+
+প্রারম্ভিক
+
+Sections 1–6
+
+---
+
+## Chapter 02
+
+কপিরাইট অফিস, রেজিস্ট্রার এবং কপিরাইট বোর্ড, ইত্যাদি
+
+Sections 7–13
+
+---
+
+## Chapter 03
+
+কপিরাইট থাকে এইরূপ কর্ম
+
+Section 14
+
+---
+
+## Chapter 04
+
+কপিরাইটের স্বত্ব এবং মালিকদের অধিকার
+
+Sections 15–21
+
+---
+
+## Chapter 05
+
+কপিরাইটের মেয়াদ
+
+Sections 22–29
+
+---
+
+## Chapter 06
+
+সম্প্রচার সংস্থা ও সম্পাদনকারীর অধিকার
+
+Sections 30–31
+
+---
+
+## Chapter 07
+
+প্রকাশক এবং অন্যান্য সংশ্লিষ্ট অধিকার
+
+Sections 32–33
+
+---
+
+## Chapter 08
+
+লোকজ্ঞান ও লোকসাংস্কৃতিক অভিব্যক্তি
+
+Sections 34–37
+
+---
+
+## Chapter 09
+
+কপিরাইট সমিতি
+
+Sections 38–44
+
+---
+
+## Chapter 10
+
+লাইসেন্স
+
+Sections 45–52
+
+---
+
+## Chapter 11
+
+কপিরাইট নিবন্ধন
+
+Sections 53–58
+
+---
+
+## Chapter 12
+
+জমা/সংরক্ষণ সংক্রান্ত বিধান
+
+Sections 59–61
+
+---
+
+## Chapter 13
+
+আন্তর্জাতিক কপিরাইট
+
+Sections 62–64
+
+---
+
+## Chapter 14
+
+রয়্যালটি
+
+Sections 65–68
+
+---
+
+## Chapter 15
+
+কপিরাইট লঙ্ঘন, ইত্যাদি
+
+Sections 69–76
+
+---
+
+## Chapter 16
+
+দেওয়ানি প্রতিকার
+
+Sections 77–83
+
+---
+
+## Chapter 17
+
+ফৌজদারি অপরাধ ও দণ্ড
+
+Sections 84–115
+
+---
+
+## Chapter 18
+
+আপিল
+
+Sections 116–119
+
+---
+
+## Chapter 19
+
+বিবিধ
+
+Sections 120–128
+
+---
+
+# ১৩. Topic System
+
+একটি section একাধিক topic-এর সঙ্গে যুক্ত হতে পারবে।
+
+Example:
+
+```text
+COPY-015
+```
+
+Topics:
+
+```text
+Ownership
+Author
+Creator
+Music
+Literature
+Digital Work
+Film
+```
+
+অর্থাৎ section 15 শুধু Chapter 4-এর মধ্যে থাকবে না।
+
+Music page-এও section 15 দেখা যাবে।
+
+Digital Work page-এও দেখা যাবে।
+
+Ownership page-এও দেখা যাবে।
+
+এটাই website-এর core knowledge graph concept।
+
+---
+
+# ১৪. Music Section
+
+Music page-কে বিশেষভাবে শক্তিশালী করতে হবে।
+
+Structure:
+
+```text
+Music Copyright
+│
+├── Music Work কী?
+├── Lyricist
+├── Composer
+├── Performer
+├── Musician
+├── Producer
+├── Sound Recording
+├── First Ownership
+├── Assignment
+├── License
+├── Royalty
+├── Broadcast
+├── Public Performance
+├── Streaming
+├── YouTube
+├── Cover Song
+├── Adaptation
+├── Translation
+├── Infringement
+└── Remedies
+```
+
+---
+
+# ১৫. Literature Section
+
+```text
+Literary Copyright
+│
+├── Book
+├── Poetry
+├── Story
+├── Novel
+├── Article
+├── Research
+├── Translation
+├── Adaptation
+├── Compilation
+├── Publisher
+├── Author
+├── Assignment
+├── License
+├── Publication
+├── Infringement
+└── Registration
+```
+
+---
+
+# ১৬. Film Section
+
+```text
+Film Copyright
+│
+├── Film
+├── Producer
+├── Director
+├── Script
+├── Music
+├── Sound Recording
+├── Adaptation
+├── Ownership
+├── Duration
+├── Archive
+├── Broadcast
+├── Online Distribution
+├── Infringement
+└── Remedies
+```
+
+---
+
+# ১৭. Digital Work Section
+
+এই section অত্যন্ত গুরুত্বপূর্ণ।
+
+```text
+Digital Work
+│
+├── Digital Work কী?
+├── Text
+├── Image
+├── Audio
+├── Video
+├── Design
+├── Software / Code
+├── Database
+├── Digital Publication
+├── Website Content
+├── Social Media Content
+├── YouTube
+├── AI-assisted Work
+├── Registration
+├── Ownership
+├── Duration
+└── Infringement
+```
+
+---
+
+# ১৮. AI & Copyright
+
+এটি আলাদা major topic হবে।
+
+## Important:
+
+বাংলাদেশের Copyright Act, 2023-এ “Generative AI” বা “AI-generated work” নামে আলাদা chapter নেই।
+
+তাই AI section-এ:
+
+```text
+আইনে সরাসরি যা আছে
+```
+
+এবং:
+
+```text
+আইনের আলোকে যে প্রশ্নগুলো বিশ্লেষণ করতে হয়
+```
+
+দুটি আলাদা রাখতে হবে।
+
+Relevant provisions:
+
+* Section 2 — Definitions
+* Section 14 — Protected Works
+* Section 15 — First Ownership
+* Section 26 — Digital Work Duration
+* Section 53 — Registration
+* Section 69 — Infringement
+* Section 77 onward — Remedies
+
+বিশেষ করে digital work-এর definition এবং “প্রণয়নকারী ব্যক্তি” বিষয়টি cross-reference করতে হবে।
+
+AI-এর ক্ষেত্রে কোনো definitive statement যেমন:
+
+> “Prompt দিলেই আপনি copyright owner”
+
+অথবা:
+
+> “AI output-এর কোনো copyright হতে পারে না”
+
+এ ধরনের unsupported statement করা যাবে না।
+
+বরং factual/legal distinction দেখাতে হবে।
+
+---
+
+# ১৯. Search System
+
+Search website-এর core feature।
+
+Search করতে হবে:
+
+* section number
+* section title
+* legal term
+* Bangla keyword
+* English keyword
+* topic
+* example
+* FAQ
+* chapter
+* content
+
+Examples:
+
+```text
+"গান"
+```
+
+Result:
+
+```text
+সংগীত কর্ম
+ধারা ১৪
+প্রথম স্বত্বাধিকারী
+রয়্যালটি
+লাইসেন্স
+লঙ্ঘন
+```
+
+Search:
+
+```text
+"AI"
+```
+
+Result:
+
+```text
+Digital Work
+প্রণেতা
+Ownership
+Registration
+AI & Copyright
+```
+
+Search:
+
+```text
+"লাইসেন্স"
+```
+
+Result:
+
+```text
+ধারা 45–52
+Copyright Society
+Compulsory License
+```
+
+---
+
+# ২০. Search Result Design
+
+প্রতিটি result:
+
+```text
+ধারা ১৫
+কপিরাইটের প্রথম স্বত্বাধিকারী
+
+কপিরাইটের স্বত্ব এবং মালিকদের অধিকার
+
+...short relevant excerpt...
+
+[আইনের ধারা দেখুন]
+[সহজ ব্যাখ্যা]
+```
+
+Search result-এ user-এর query highlight করতে হবে।
+
+---
+
+# ২১. Legal Dictionary
+
+একটি পূর্ণ glossary তৈরি করতে হবে।
+
+Example:
+
+```text
+প্রণেতা
+স্বত্বাধিকারী
+কর্ম
+প্রকাশ
+প্রকাশক
+অভিযোজন
+লাইসেন্স
+স্বত্ব নিয়োগ
+রয়্যালটি
+পাবলিক ডোমেইন
+ডিজিটাল কর্ম
+শব্দ-ধ্বনি রেকর্ডিং
+সম্প্রচার
+সম্পাদনকারী
+কপিরাইট সমিতি
+```
+
+প্রতিটি term:
+
+```text
+আইনের সংজ্ঞা
+↓
+সহজ অর্থ
+↓
+ব্যবহার
+↓
+Related sections
+```
+
+---
+
+# ২২. “What Do You Want To Do?” Engine
+
+এটি rule-based system হতে পারে।
+
+Example:
+
+### User selects:
+
+> “আমি একটি গান প্রকাশ করতে চাই”
+
+System returns:
+
+```text
+1. গানটি কার?
+2. Lyricist কে?
+3. Composer কে?
+4. Performer কে?
+5. Sound Recording কে তৈরি করেছে?
+6. Copyright ownership
+7. License
+8. Royalty
+9. Streaming
+10. YouTube
+11. Infringement
+```
+
+তারপর সংশ্লিষ্ট sections:
+
+```text
+2
+14
+15
+22
+31
+45–52
+65–68
+69–76
+77–83
+```
+
+---
+
+# ২৩. Practical Example Engine
+
+প্রতিটি গুরুত্বপূর্ণ topic-এ real-life scenario দিতে হবে।
+
+Example:
+
+### Scenario
+
+> একজন ব্যক্তি AI-কে বলল, “একটি logo তৈরি করো।” AI logo তৈরি করল। পরে ব্যক্তি Photoshop-এ সেটি দেখে নিজে নতুনভাবে logo recreate করল।
+
+Website দেখাবে:
+
+```text
+Relevant concepts:
+
+Digital Work
+Author / Creator
+Human Contribution
+Ownership
+Registration
+```
+
+কিন্তু system কোনো চূড়ান্ত legal verdict দেবে না যদি আইনে সরাসরি উত্তর না থাকে।
+
+---
+
+# ২৪. Infringement Checker
+
+একটি educational decision tree বানাতে হবে।
+
+```text
+আপনি কি অন্যের কাজ ব্যবহার করছেন?
+        ↓
+       YES
+        ↓
+আপনার permission আছে?
+      ↙     ↘
+    YES      NO
+     ↓        ↓
+  সম্ভব     Exception আছে?
+               ↓
+          YES / NO
+```
+
+এর নিচে:
+
+> এটি সাধারণ তথ্যভিত্তিক guidance; নির্দিষ্ট মামলার আইনি পরামর্শ নয়।
+
+---
+
+# ২৫. Copyright Duration Calculator
+
+User input:
+
+```text
+Work Type
+Author Death / Publication Date
+Anonymous?
+Government?
+Digital?
+Film?
+Sound Recording?
+```
+
+Output:
+
+```text
+Copyright Duration
+Expected Expiry
+Relevant Section
+```
+
+Calculator অবশ্যই আইনের exact duration rules থেকে তৈরি করতে হবে।
+
+---
+
+# ২৬. Visual Design Direction
+
+Design:
+
+* clean
+* premium
+* modern
+* serious
+* trustworthy
+* academic/legal
+* কিন্তু intimidating নয়
+
+Avoid:
+
+* overly corporate design
+* excessive gradients
+* unnecessary animation
+* clutter
+* huge hero graphics
+* fake legal imagery
+* unnecessary stock photos
+
+Recommended visual language:
+
+```text
+White / warm off-white
+Deep charcoal
+Dark green / muted legal green
+Subtle orange accent
+```
+
+Typography:
+
+Bangla-first.
+
+Recommended:
+
+* Noto Sans Bengali
+* Noto Serif Bengali
+
+English:
+
+* Inter
+* Source Sans / similar clean sans
+
+---
+
+# ২৭. Home Page
+
+Home page structure:
+
+## Hero
+
+**কপিরাইট আইন, ২০২৩**
+
+Subtitle:
+
+> বাংলাদেশের কপিরাইট আইন সহজভাবে পড়ুন, বুঝুন এবং প্রয়োজন অনুযায়ী খুঁজে নিন।
+
+Search box:
+
+> “আপনি কী জানতে চান?”
+
+Examples:
+
+```text
+গানের কপিরাইট কার?
+AI দিয়ে বানানো ছবির কপিরাইট কী?
+অন্যের গান YouTube-এ ব্যবহার করা যাবে?
+কপিরাইট রেজিস্ট্রেশন কীভাবে করব?
+```
+
+---
+
+## Quick Navigation
+
+```text
+📖 আইন পড়ুন
+🎵 সংগীত
+📚 সাহিত্য
+🎬 চলচ্চিত্র
+💻 ডিজিটাল কর্ম
+🤖 AI & Copyright
+📝 Registration
+⚖️ Infringement
+💰 Royalty
+```
+
+---
+
+# ২৮. Original Law Mode
+
+একটি dedicated mode থাকবে:
+
+> **“শুধু আইন পড়ুন”**
+
+এখানে:
+
+* কোনো practical example নয়
+* কোনো AI explanation নয়
+* original chapter/section structure
+* section navigation
+* previous/next section
+* table of contents
+
+এটি legal researchers-এর জন্য।
+
+---
+
+# ২৯. Easy Mode
+
+আরেকটি mode:
+
+> **“সহজভাবে বুঝুন”**
+
+এখানে original text-এর পাশাপাশি:
+
+```text
+সহজ ভাষায়
+উদাহরণ
+FAQ
+Related topics
+```
+
+---
+
+# ৩০. Desktop Layout
+
+Recommended:
+
+```text
+┌──────────────────────────────────────┐
+│ Header / Search                      │
+├──────────────┬───────────────────────┤
+│ Chapter      │ Section Content       │
+│ Navigation   │                       │
+│              │ Original Law          │
+│              │                       │
+│              │ Explanation           │
+│              │                       │
+│              │ Examples              │
+│              │                       │
+│              │ Related Sections      │
+└──────────────┴───────────────────────┘
+```
+
+---
+
+# ৩১. Mobile Layout
+
+Mobile-first হতে হবে।
+
+Top:
+
+```text
+☰
+Copyright Act 2023
+🔍
+```
+
+Section page:
+
+```text
+ধারা ১৫
+
+কপিরাইটের প্রথম স্বত্বাধিকারী
+
+[আইনের পাঠ]
+
+[সহজ ব্যাখ্যা]
+
+[উদাহরণ]
+
+[সম্পর্কিত ধারা]
+```
+
+Bottom sticky navigation:
+
+```text
+← Previous
+Sections
+Next →
+```
+
+---
+
+# ৩২. Accessibility
+
+Must support:
+
+* keyboard navigation
+* screen readers
+* readable font sizes
+* high contrast
+* focus states
+* reduced motion
+* semantic HTML
+* proper heading hierarchy
+* Bengali Unicode
+* copyable legal text
+
+---
+
+# ৩৩. SEO
+
+প্রতিটি section-এর নিজস্ব URL:
+
+```text
+/law/section/15
+/law/section/69
+/law/section/100
+```
+
+Topic:
+
+```text
+/topics/music
+/topics/literature
+/topics/digital-work
+/topics/ai
+```
+
+Chapter:
+
+```text
+/chapters/1
+/chapters/15
+```
+
+Practical:
+
+```text
+/guides/youtube-copyright
+/guides/music-copyright
+/guides/copyright-registration
+```
+
+---
+
+# ৩৪. Metadata
+
+প্রতিটি page:
+
+```html
+<title>
+ধারা ১৫ — কপিরাইটের প্রথম স্বত্বাধিকারী | কপিরাইট আইন ২০২৩
+</title>
+```
+
+Meta description:
+
+> বাংলাদেশের কপিরাইট আইন, ২০২৩-এর ধারা ১৫-এর মূল পাঠ, সহজ ব্যাখ্যা, বাস্তব উদাহরণ এবং সংশ্লিষ্ট বিধান।
+
+Structured data:
+
+* Article
+* FAQPage where appropriate
+* BreadcrumbList
+
+---
+
+# ৩৫. Internal Linking
+
+Internal linking অত্যন্ত গুরুত্বপূর্ণ।
+
+Example:
+
+Section 15 page:
+
+```text
+Related:
+→ প্রণেতা
+→ Digital Work
+→ Assignment
+→ Section 16
+→ Section 22
+```
+
+Music page:
+
+```text
+→ Section 14
+→ Section 15
+→ Section 22
+→ Section 31
+→ Section 45
+→ Section 65
+→ Section 69
+```
+
+---
+
+# ৩৬. Data Architecture
+
+Recommended:
+
+```text
+chapters
+sections
+subsections
+topics
+legal_terms
+examples
+faqs
+guides
+references
+relationships
+```
+
+Relationship:
+
+```text
+sections ↔ topics
+sections ↔ sections
+sections ↔ legal_terms
+sections ↔ examples
+topics ↔ guides
+```
+
+---
+
+# ৩৭. Suggested Database Schema
+
+```text
+chapters
+---------
+id
+chapter_number
+title_bn
+title_en
+description
+sort_order
+
+
+sections
+--------
+id
+section_number
+chapter_id
+title_bn
+title_en
+official_text_bn
+plain_explanation_bn
+source_url
+source_verified_at
+sort_order
+
+
+topics
+------
+id
+slug
+title_bn
+title_en
+description
+
+
+section_topics
+--------------
+section_id
+topic_id
+
+
+related_sections
+----------------
+section_id
+related_section_id
+relationship_type
+
+
+legal_terms
+-----------
+id
+term_bn
+term_en
+legal_definition
+plain_meaning
+
+
+examples
+--------
+id
+title
+description
+legal_analysis
+disclaimer
+
+
+faqs
+----
+id
+question
+answer
+related_section
+
+
+guides
+------
+id
+title
+slug
+content
+related_sections
+```
+
+---
+
+# ৩৮. Content Versioning
+
+আইন ভবিষ্যতে সংশোধিত হতে পারে।
+
+তাই:
+
+```text
+law_version
+effective_date
+source_url
+verified_date
+amendment_note
+```
+
+রাখতে হবে।
+
+Future:
+
+```text
+Copyright Act 2023
+↓
+Amendment 2027
+↓
+Amendment 2030
+```
+
+হলে historical version রাখা সম্ভব হবে।
+
+---
+
+# ৩৯. Source Verification
+
+প্রতিটি legal section-এর সঙ্গে:
+
+```text
+Source:
+Bangladesh Laws (BDLaws)
+
+Verified:
+YYYY-MM-DD
+```
+
+থাকবে।
+
+Admin content update করলে source verification date update করতে হবে।
+
+---
+
+# ৪০. Admin Panel
+
+যদি admin প্রয়োজন হয়:
+
+```text
+Dashboard
+
+Law
+├── Chapters
+├── Sections
+├── Definitions
+├── Topics
+├── Examples
+├── FAQs
+├── Guides
+└── Sources
+```
+
+Admin যেন:
+
+* section edit করতে পারে
+* explanation edit করতে পারে
+* topic assign করতে পারে
+* related section connect করতে পারে
+* source verify করতে পারে
+* content publish/unpublish করতে পারে
+
+---
+
+# ৪১. AI Agent Development Rules
+
+AI developer/agent-কে কাজ করার সময়:
+
+### Rule 1
+
+আগে repository inspect করবে।
+
+### Rule 2
+
+Existing architecture থাকলে সেটি বুঝে তারপর implementation করবে।
+
+### Rule 3
+
+অপ্রয়োজনীয় rewrite করবে না।
+
+### Rule 4
+
+Existing functionality ভাঙবে না।
+
+### Rule 5
+
+একসঙ্গে বিশাল speculative implementation করবে না।
+
+### Rule 6
+
+প্রথমে data model তৈরি করবে।
+
+### Rule 7
+
+তারপর legal content ingestion করবে।
+
+### Rule 8
+
+তারপর UI।
+
+### Rule 9
+
+তারপর search।
+
+### Rule 10
+
+তারপর cross-linking।
+
+### Rule 11
+
+শেষে testing।
+
+---
+
+# ৪২. Development Phases
+
+## Phase 1 — Repository Audit
+
+Inspect:
+
+```text
+package.json
+src/
+app/
+components/
+lib/
+public/
+database/
+config/
+```
+
+তারপর report:
+
+```text
+Existing stack
+Existing routing
+Existing components
+Existing database
+Existing styling
+Potential reuse
+Potential conflicts
+```
+
+কোনো code পরিবর্তন করার আগে।
+
+---
+
+# ৪৩. Phase 2 — Content Architecture
+
+Build:
+
+```text
+Chapter
+Section
+Topic
+Definition
+Example
+FAQ
+Guide
+Relationship
+```
+
+---
+
+# ৪৪. Phase 3 — Legal Content Ingestion
+
+Official BDLaws থেকে:
+
+```text
+1–128
+```
+
+প্রতিটি section সংগ্রহ করতে হবে।
+
+প্রথমে:
+
+```text
+section number
+title
+official text
+chapter
+```
+
+তারপর দ্বিতীয় layer:
+
+```text
+plain explanation
+examples
+topics
+related sections
+```
+
+**Official text এবং explanatory content কখনো একই field-এ রাখা যাবে না।**
+
+---
+
+# ৪৫. Phase 4 — Core UI
+
+Build:
+
+* Home
+* Chapter listing
+* Section listing
+* Section detail
+* Topic listing
+* Topic detail
+* Dictionary
+* Search
+
+---
+
+# ৪৬. Phase 5 — Search
+
+Search index:
+
+```text
+section
+title
+official text
+explanation
+topic
+legal term
+FAQ
+example
+```
+
+Bangla search অবশ্যই support করতে হবে।
+
+---
+
+# ৪৭. Phase 6 — Practical Guides
+
+Build:
+
+```text
+Music Copyright Guide
+Literature Copyright Guide
+Film Copyright Guide
+Digital Copyright Guide
+Copyright Registration Guide
+YouTube Copyright Guide
+Infringement Guide
+AI & Copyright Guide
+```
+
+---
+
+# ৪৮. Phase 7 — Smart Navigation
+
+Implement:
+
+> “আমি কী করতে চাই?”
+
+Decision tree।
+
+---
+
+# ৪৯. Phase 8 — Legal QA
+
+প্রতিটি section-এর জন্য check:
+
+```text
+✓ Section number correct
+✓ Chapter correct
+✓ Title correct
+✓ Official text complete
+✓ No missing subsection
+✓ Explanation does not contradict law
+✓ Examples do not overclaim
+✓ Related sections correct
+✓ Source URL works
+```
+
+---
+
+# ৫০. Phase 9 — UI/UX QA
+
+Test:
+
+* Desktop
+* Tablet
+* Android
+* iPhone
+* Chrome
+* Firefox
+* Safari
+* Edge
+
+---
+
+# ৫১. Performance
+
+Target:
+
+```text
+Fast initial load
+Minimal JS
+Static rendering where possible
+Optimized search
+Optimized fonts
+Lazy loading
+```
+
+Legal content mostly static হওয়ায় সম্ভব হলে SSR/SSG ব্যবহার করা ভালো।
+
+---
+
+# ৫২. Error Handling
+
+404:
+
+> এই ধারাটি পাওয়া যায়নি।
+
+Search no result:
+
+> আপনার অনুসন্ধানের সঙ্গে মিলে এমন কোনো ফলাফল পাওয়া যায়নি।
+
+Source unavailable:
+
+> সরকারি উৎসটি এই মুহূর্তে পাওয়া যাচ্ছে না। Cached legal content ব্যবহার করা হচ্ছে।
+
+তবে cached content-এর পাশে verification date দেখাতে হবে।
+
+---
+
+# ৫৩. Disclaimer
+
+Footer-এ:
+
+> **গুরুত্বপূর্ণ:** এই ওয়েবসাইটটি বাংলাদেশের কপিরাইট আইন, ২০২৩ সাধারণ মানুষের জন্য সহজভাবে বোঝানোর উদ্দেশ্যে তৈরি। এখানে দেওয়া ব্যাখ্যা, উদাহরণ ও practical guidance আইনটির সরকারি মূল পাঠের বিকল্প নয় এবং নির্দিষ্ট কোনো মামলার জন্য আইনগত পরামর্শ হিসেবে গণ্য হবে না। গুরুত্বপূর্ণ সিদ্ধান্তের ক্ষেত্রে মূল আইন, সংশ্লিষ্ট বিধি এবং প্রয়োজন হলে যোগ্য আইনজীবীর পরামর্শ গ্রহণ করুন।
+
+---
+
+# ৫৪. Original Source Page
+
+একটি dedicated page:
+
+```text
+Official Legal Source
+
+কপিরাইট আইন, ২০২৩
+
+Bangladesh Laws
+Ministry of Law, Justice and Parliamentary Affairs
+
+[Official Source]
+```
+
+এখানে official BDLaws source link থাকবে।
+
+---
+
+# ৫৫. Copyright Rules
+
+Website architecture-এ **Copyright Rules, 2006**-কে আলাদা source layer হিসেবে রাখার ব্যবস্থা করতে হবে।
+
+কারণ কিছু practical বিষয় Act-এর পাশাপাশি Rules-এর ওপর নির্ভর করতে পারে।
+
+তাই:
+
+```text
+LAW
+Copyright Act 2023
+
+RULES
+Copyright Rules 2006
+```
+
+দুটিকে আলাদা source হিসেবে রাখবে।
+
+---
+
+# ৫৬. Act বনাম Rules
+
+যেখানে প্রয়োজন:
+
+```text
+আইন:
+ধারা XX
+
+বিধি:
+বিধি XX
+
+সম্পর্ক:
+এই বিধিটি উক্ত ধারার implementation-এর সঙ্গে সম্পর্কিত।
+```
+
+---
+
+# ৫৭. Never Do
+
+AI agent নিচের কাজগুলো করবে না:
+
+❌ আইনকে নিজের মতো rewrite করা
+❌ বিদেশি copyright law ব্যবহার করা
+❌ fake case law তৈরি করা
+❌ fake court decision তৈরি করা
+❌ AI copyright বিষয়ে definitive unsupported claim
+❌ কোনো lawyer-এর মত legal opinion তৈরি করা
+❌ section number আন্দাজ করা
+❌ source ছাড়া legal information publish করা
+❌ “fair use” শব্দটি বাংলাদেশের আইনে আছে ধরে নেওয়া
+❌ US Copyright Office-এর নিয়মকে Bangladesh law হিসেবে দেখানো
+❌ কোনো provision বাদ দেওয়া
+❌ duplicate/incorrect section numbering
+❌ শুধু UI বানিয়ে content architecture বাদ দেওয়া
+
+---
+
+# ৫৮. Quality Standard
+
+Website এমন হতে হবে যাতে একজন user:
+
+### প্রশ্ন:
+
+> “আমার গান কেউ অনুমতি ছাড়া YouTube-এ ব্যবহার করেছে।”
+
+সে search করলে যেন:
+
+```text
+Music
+↓
+Copyright Ownership
+↓
+Infringement
+↓
+Section 69
+↓
+Civil Remedies
+↓
+Section 77–83
+↓
+Online/Digital
+↓
+Relevant guidance
+```
+
+পায়।
+
+---
+
+# ৫৯. দ্বিতীয় উদাহরণ
+
+User:
+
+> “আমি AI দিয়ে একটি ছবি তৈরি করেছি।”
+
+Website:
+
+```text
+AI & Copyright
+↓
+Digital Work
+↓
+Section 2
+↓
+Section 14
+↓
+Section 15
+↓
+Registration
+↓
+What the Act expressly says
+↓
+What remains legally unclear
+```
+
+এখানে website কোনো অনুমানকে definitive law হিসেবে দেখাবে না।
+
+---
+
+# ৬০. তৃতীয় উদাহরণ
+
+User:
+
+> “আমি অন্য একজনের লেখা দিয়ে বই বানাতে চাই।”
+
+Website:
+
+```text
+Literature
+↓
+Copyright
+↓
+Translation / Adaptation
+↓
+Permission
+↓
+License
+↓
+Assignment
+↓
+Infringement
+```
+
+---
+
+# ৬১. Final Product Definition
+
+এই project সফল হয়েছে বলা হবে যখন:
+
+একজন সাধারণ মানুষ আইন না জেনেও website-এ এসে:
+
+1. নিজের বিষয় খুঁজে পাবে
+2. সংশ্লিষ্ট ধারা খুঁজে পাবে
+3. মূল আইন পড়তে পারবে
+4. সহজ ব্যাখ্যা পড়তে পারবে
+5. বাস্তব উদাহরণ দেখতে পারবে
+6. related sections দেখতে পারবে
+7. relevant definitions দেখতে পারবে
+8. relevant rights/obligations বুঝতে পারবে
+9. related infringement/remedy জানতে পারবে
+10. সরকারি source-এ ফিরে যেতে পারবে
+
+---
+
+# ৬২. Developer-এর জন্য Final Instruction
+
+**এই project-কে সাধারণ content website হিসেবে treat করবে না।**
+
+এটি একটি:
+
+> **Legal Knowledge Base + Law Reader + Topic Explorer + Practical Learning System**
+
+হিসেবে তৈরি করবে।
+
+প্রথম priority:
+
+```text
+Accuracy
+↓
+Structure
+↓
+Searchability
+↓
+Understandability
+↓
+Usability
+↓
+Visual polish
+```
+
+Design সুন্দর হওয়া গুরুত্বপূর্ণ, কিন্তু **legal accuracy-এর চেয়ে কখনো বেশি গুরুত্বপূর্ণ নয়।**
+
+প্রথমে existing repository audit করো।
+
+তারপর architecture proposal দাও।
+
+তারপর data model তৈরি করো।
+
+তারপর সরকারি Copyright Act, 2023-এর ১–১২৮ ধারা structured data হিসেবে ingest করো।
+
+তারপর topic mapping করো।
+
+তারপর UI তৈরি করো।
+
+তারপর search এবং cross-reference তৈরি করো।
+
+শেষে full QA করো।
+
+**কোনো ধারা বা legal information অনুমান করে পূরণ করবে না। সন্দেহ হলে সরকারি source verify করবে।**
+
+---
+
+## Primary Source
+
+Bangladesh Laws — Copyright Act, 2023:
+
+https://bdlaws.minlaw.gov.bd/act-print-1452.html
+
+এই source-ই legal content-এর primary source of truth হবে।

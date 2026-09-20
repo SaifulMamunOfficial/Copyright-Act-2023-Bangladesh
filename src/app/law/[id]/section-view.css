@@ -1,0 +1,21 @@
+.section-header-top {
+  margin-bottom: 2rem;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 1rem;
+}
+
+.mode-toggle {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  padding: 0.5rem;
+  background-color: var(--bg-secondary);
+  border-radius: var(--radius-md);
+  width: fit-content;
+}
+
+.original-text {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--text-primary);
+}

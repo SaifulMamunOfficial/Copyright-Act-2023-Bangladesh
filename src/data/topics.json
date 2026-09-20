@@ -1,0 +1,38 @@
+[
+  {
+    "id": "music",
+    "title": "গান ও সংগীত",
+    "description": "গান লেখা, সুর করা এবং গানের রেকর্ডিং সংক্রান্ত কপিরাইট অধিকার।",
+    "related_sections": ["COPY-015", "COPY-071", "COPY-082"]
+  },
+  {
+    "id": "literature",
+    "title": "সাহিত্য ও বই",
+    "description": "গল্প, উপন্যাস, কবিতা এবং প্রবন্ধের কপিরাইট নিয়মকানুন।",
+    "related_sections": ["COPY-014", "COPY-015", "COPY-024", "COPY-071"]
+  },
+  {
+    "id": "film",
+    "title": "চলচ্চিত্র ও নাটক",
+    "description": "সিনেমা, শর্টফিল্ম ও নাটকের চিত্রনাট্য এবং ভিডিও রেকর্ডিংয়ের অধিকার।",
+    "related_sections": ["COPY-015", "COPY-071", "COPY-082"]
+  },
+  {
+    "id": "digital",
+    "title": "ডিজিটাল ও সফটওয়্যার",
+    "description": "কম্পিউটার প্রোগ্রাম, অ্যাপ, এবং ডিজিটাল কনটেন্টের আইনি অধিকার।",
+    "related_sections": ["COPY-015", "COPY-078"]
+  },
+  {
+    "id": "photography",
+    "title": "আলোকচিত্র (Photography)",
+    "description": "ছবি তোলা এবং তা অনলাইনে বা কমার্শিয়ালি ব্যবহারের অধিকার।",
+    "related_sections": ["COPY-015", "COPY-028"]
+  },
+  {
+    "id": "sound-recording",
+    "title": "শব্দধারণ (Sound Recording)",
+    "description": "পডকাস্ট, ভয়েসওভার এবং মিউজিক ট্র্যাক রেকর্ডিংয়ের অধিকার।",
+    "related_sections": ["COPY-015", "COPY-071"]
+  }
+]
