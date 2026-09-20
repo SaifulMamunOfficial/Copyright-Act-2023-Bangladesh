@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:I[65416,["/Copyright-Act-2023-Bangladesh/_next/static/chunks/1mpnoxox0-4cg.js","/Copyright-Act-2023-Bangladesh/_next/static/chunks/0vg52pntq442c.js"],"default"]
+3:T12f0,৩। (১) উপধারা (৪) ও (৫) এর বিধান সাপেক্ষে, কোনো কর্মের “প্রকাশনা” অর্থ-
+(ক) উহার অনুলিপি জনগণের নিকট সরবরাহ করা; এবং
+(খ) সাহিত্য, নাটক, সংগীত, শব্দ-ধ্বনি, চিত্রকর্ম বা চলচ্চিত্রের ক্ষেত্রে উহা পুনঃআহরণযোগ্য (retrievable) ডিজিটাল বা ইলেক্ট্রনিক মাধ্যমে জনসাধারণের নিকট প্রাপ্তিসাধ্য করা, এবং সংশ্লিষ্ট অন্যান্য অভিব্যক্তিও ইহার অন্তর্ভুক্ত হইবে।
+(২) সাহিত্য, নাট্য, সংগীত, শব্দ-ধ্বনি, চিত্রকর্ম বা চলচ্চিত্র কর্মের ক্ষেত্রে “বাণিজ্যিক প্রকাশনা” অর্থ -
+(ক) উহার ক্রয় আদেশের পূর্বে অগ্রিম অনুলিপি প্রস্তুত করিয়া বাণিজ্যিক উদ্দেশ্যে সরবরাহের নিমিত্ত জনসাধারণের নিকট সাধারণভাবে প্রাপ্তিসাধ্য করা; অথবা
+(খ) উক্তরূপ কর্ম পুনঃআহরণযোগ্য ডিজিটাল বা ইলেক্ট্রনিক মাধ্যমে জনসাধারণের নিকট সাধারণভাবে প্রাপ্তিসাধ্য করা; এবং সংশ্লিষ্ট অন্যান্য অভিব্যক্তিও ইহার অন্তর্ভুক্ত হইবে।
+(৩) স্থাপত্য কর্ম ও ভাস্কর্যের ক্ষেত্রে, স্থাপনা বা উহাতে অন্তর্ভুক্ত শিল্পকর্মসহ উহার নির্মাণ সম্পন্ন হইবার পর কর্মটি প্রকাশিত বলিয়া গণ্য হইবে।
+(৪) উপধারা (১), (২) ও (৩) এ যাহা কিছুই থাকুক না কেন, নিম্নবর্ণিত কার্য প্রকাশনা বলিয়া গণ্য হইবে না, যথা :-
+(ক) সাহিত্য, নাট্য বা সংগীতকর্মের ক্ষেত্রে উহার আবৃত্তি বা পরিবেশন বা শ্রেণিকক্ষ ও শিক্ষামূলক কার্যক্রমে উহার লেকচার প্রদান এবং উক্তরূপ কর্ম পুনঃআহরণযোগ্য ব্যতিরেকে ডিজিটাল বা ইলেক্ট্রনিক মাধ্যমে জনসাধারণের নিকট পরিবেশন;
+(খ) অঙ্কন, রেখাচিত্র, গ্রাফিক্স ও অন্যান্য চারু ও কারুকর্মের ক্ষেত্রে উহার প্রদর্শন;
+(গ) স্থাপত্য কর্ম ও ভাস্কর্যের ক্ষেত্রে উহার স্থাপত্যশৈলী বা শিল্পনৈপুণ্য প্রদর্শনের নিমিত্ত উহার মডেল প্রস্তুত ও প্রদর্শন; এবং
+(ঘ) চলচ্চিত্রের ক্ষেত্রে উহা ইলেক্ট্রনিক মাধ্যমে পুনঃআহরণযোগ্য করিয়া সরবরাহ ব্যতিরেকে জনসাধারণের নিকট প্রদর্শন।
+(৫) কপিরাইট লঙ্ঘনের উদ্দেশ্য ব্যতীত, বিনা লাইসেন্সে বা কপিরাইট স্বত্বাধিকারীর অনুমতি ব্যতিরেকে কোনো কর্ম প্রকাশিত, প্রকাশ্যে সম্পাদনকৃত বা কোনো লেকচার জনসমক্ষে প্রদত্ত হইলেও, উক্ত কর্ম বা উক্ত লেকচার প্রকাশিত বা প্রকাশ্যে সম্পাদনকৃত বা জনসমক্ষে প্রদত্ত হইয়াছে বলিয়া গণ্য হইবে না।4:T11b4,ধারা ৩-এ কোনো কর্মের "প্রকাশনা" এবং "বাণিজ্যিক প্রকাশনা" এর সংজ্ঞা দেওয়া হয়েছে।
+
+**প্রকাশনা:**
+সাধারণত, কোনো কাজের অনুলিপি জনগণের কাছে বিতরণ করাকে "প্রকাশনা" বলে। সাহিত্য, নাটক, সংগীত, শব্দ-ধ্বনি, চিত্রকর্ম বা চলচ্চিত্রের ক্ষেত্রে, যদি এগুলো ডিজিটাল বা ইলেকট্রনিক মাধ্যমে এমনভাবে জনগণের কাছে সহজলভ্য করা হয় যে তারা যখন খুশি তা আবার দেখতে বা শুনতে পারে (পুনঃআহরণযোগ্য), তবে সেটিও প্রকাশনা হিসেবে গণ্য হবে।
+
+**বাণিজ্যিক প্রকাশনা:**
+সাহিত্য, নাটক, সংগীত, শব্দ-ধ্বনি, চিত্রকর্ম বা চলচ্চিত্রের ক্ষেত্রে, যদি বাণিজ্যিক উদ্দেশ্যে বিক্রির জন্য অগ্রিম অনুলিপি তৈরি করে জনগণের কাছে সহজলভ্য করা হয়, অথবা পুনঃআহরণযোগ্য ডিজিটাল বা ইলেকট্রনিক মাধ্যমে বাণিজ্যিক উদ্দেশ্যে জনগণের কাছে সহজলভ্য করা হয়, তবে সেটি "বাণিজ্যিক প্রকাশনা" হিসেবে বিবেচিত হবে।
+
+**স্থাপত্য কর্ম ও ভাস্কর্যের প্রকাশনা:**
+স্থাপত্য কর্ম (যেমন ভবন) বা ভাস্কর্যের ক্ষেত্রে, এর নির্মাণ কাজ শেষ হওয়ার পর এটিকে প্রকাশিত বলে ধরা হবে।
+
+**যা প্রকাশনা নয়:**
+কিছু নির্দিষ্ট কাজকে প্রকাশনা হিসেবে ধরা হবে না। যেমন:
+*   সাহিত্য, নাটক বা সংগীতকর্মের আবৃত্তি বা পরিবেশনা, অথবা শ্রেণিকক্ষ বা শিক্ষামূলক কার্যক্রমে লেকচার দেওয়া।
+*   ডিজিটাল বা ইলেকট্রনিক মাধ্যমে কোনো কাজকে এমনভাবে পরিবেশন করা যা পুনঃআহরণযোগ্য নয় (অর্থাৎ একবার দেখার পর আবার সহজে দেখা যায় না)।
+*   অঙ্কন, রেখাচিত্র, গ্রাফিক্স বা অন্যান্য চারু ও কারুকর্মের শুধু প্রদর্শনী।
+*   স্থাপত্য কর্ম বা ভাস্কর্যের স্থাপত্যশৈলী বা শিল্পনৈপুণ্য দেখানোর জন্য এর মডেল তৈরি ও প্রদর্শন।
+*   চলচ্চিত্রকে ইলেকট্রনিক মাধ্যমে পুনঃআহরণযোগ্য না করে শুধু জনগণের কাছে প্রদর্শন করা।
+
+**অনুমতি ছাড়া প্রকাশনা:**
+যদি কপিরাইট লঙ্ঘনের উদ্দেশ্য ছাড়া, লাইসেন্স বা স্বত্বাধিকারীর অনুমতি ছাড়া কোনো কাজ প্রকাশিত হয়, জনসমক্ষে পরিবেশিত হয় বা কোনো লেকচার জনসমক্ষে দেওয়া হয়, তবে আইন অনুযায়ী সেটিকে প্রকাশিত, জনসমক্ষে পরিবেশিত বা জনসমক্ষে প্রদত্ত হয়েছে বলে গণ্য করা হবে না।9:X
+e:X
+e:C
+0:{"buildId":"JjtZzXh_1lTHwAxVIve95","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"section":{"id":"COPY-003","section_number":"3","title":"কোনো কর্মের প্রকাশনা এবং বাণিজ্যিক প্রকাশনা","original_law_text":"$3","explanation":"$4","examples":["একজন লেখক তার নতুন উপন্যাস ছাপিয়ে বই আকারে বাজারে বিক্রি শুরু করলেন। এটি উপন্যাসের \"প্রকাশনা\"। একজন সংগীতশিল্পী তার নতুন গান একটি অনলাইন স্ট্রিমিং প্ল্যাটফর্মে আপলোড করলেন, যেখানে যে কেউ সাবস্ক্রিপশন নিয়ে বা কিনে গানটি বারবার শুনতে পারে। এটিও গানের \"প্রকাশনা\"।","একজন চিত্রশিল্পী তার আঁকা ছবিগুলো একটি গ্যালারিতে প্রদর্শন করলেন, কিন্তু সেগুলোর কোনো কপি বিক্রি করলেন না বা ডিজিটাল মাধ্যমে সহজলভ্য করলেন না। এটি \"প্রকাশনা\" নয়। একইভাবে, একজন স্থপতি তার প্রস্তাবিত ভবনের একটি ছোট মডেল তৈরি করে একটি প্রদর্শনীতে দেখালেন, এটিও \"প্রকাশনা\" নয়।","একজন ব্যক্তি একটি গান তৈরি করলেন কিন্তু তা এখনো প্রকাশ করেননি। অন্য একজন ব্যক্তি সেই গানটি স্বত্বাধিকারীর অনুমতি ছাড়া একটি ছোট অনুষ্ঠানে গেয়ে শোনালেন, কিন্তু তার উদ্দেশ্য কপিরাইট লঙ্ঘন করা ছিল না। এই গাওয়াকে আইনের চোখে \"প্রকাশনা\" বা \"জনসমক্ষে পরিবেশনা\" হিসেবে ধরা হবে না, কারণ এটি অনুমতি ছাড়া হয়েছে এবং লঙ্ঘনের উদ্দেশ্য ছিল না।"],"faqs":[],"topics":[],"related_sections":[],"source":{"source_url":"https://bdlaws.minlaw.gov.bd/act-print-1452.html","source_name":"BD Laws","verified_at":"2026-09-20T07:22:31.709Z","law_version":"Original (2023)","effective_date":"2023-09-18T00:00:00Z"},"verification":{"law_text":"verified","explanation":"needs_review","examples":"needs_review","verified_by":null,"verified_at":null}},"chapterTitle":"অধ্যায় প্রথম অধ্যায়: প্রারম্ভিক"}],["$L5","$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"},{"rsc":"$L11","isPartial":"$@12","staleTime":"$9","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+15:I[97367,["/Copyright-Act-2023-Bangladesh/_next/static/chunks/1mpnoxox0-4cg.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:I[97367,["/Copyright-Act-2023-Bangladesh/_next/static/chunks/1mpnoxox0-4cg.js"],"ViewportBoundary"]
+19:I[97367,["/Copyright-Act-2023-Bangladesh/_next/static/chunks/1mpnoxox0-4cg.js"],"MetadataBoundary"]
+1a:I[27201,["/Copyright-Act-2023-Bangladesh/_next/static/chunks/1mpnoxox0-4cg.js"],"IconMark"]
+1b:I[39756,["/Copyright-Act-2023-Bangladesh/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
+1c:I[37457,["/Copyright-Act-2023-Bangladesh/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
+1d:I[22016,["/Copyright-Act-2023-Bangladesh/_next/static/chunks/1mpnoxox0-4cg.js"],""]
+:HL["/Copyright-Act-2023-Bangladesh/_next/static/chunks/3ec6_9v2h1qu5.css","style"]
+:HL["/Copyright-Act-2023-Bangladesh/_next/static/chunks/22ej1wvwco515.css","style"]
+5:["$","link","0",{"rel":"stylesheet","href":"/Copyright-Act-2023-Bangladesh/_next/static/chunks/3ec6_9v2h1qu5.css","precedence":"next"}]
+6:["$","script","script-0",{"src":"/Copyright-Act-2023-Bangladesh/_next/static/chunks/0vg52pntq442c.js","async":true}]
+7:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+a:["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L19",null,{"children":["$","$16",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Copyright Act 2023 - বাংলাদেশ কপিরাইট আইন"}],["$","meta","1",{"name":"description","content":"বাংলাদেশের কপিরাইট আইন ২০২৩ এর সহজ বাংলা ব্যাখ্যা, ডিজিটাল কনটেন্ট, এআই, ও অন্যান্য কপিরাইট নিয়মকানুন জানুন।"}],["$","link","2",{"rel":"canonical","href":"https://copyright-act-bd.example.com"}],["$","meta","3",{"property":"og:title","content":"Copyright Act 2023 Bangladesh"}],["$","meta","4",{"property":"og:description","content":"বাংলাদেশের কপিরাইট আইনের সহজ বাংলা ব্যাখ্যা"}],["$","meta","5",{"property":"og:url","content":"https://copyright-act-bd.example.com"}],["$","meta","6",{"property":"og:site_name","content":"Copyright Act BD"}],["$","meta","7",{"property":"og:locale","content":"bn_BD"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"Copyright Act 2023 Bangladesh"}],["$","meta","11",{"name":"twitter:description","content":"বাংলাদেশের কপিরাইট আইনের সহজ বাংলা ব্যাখ্যা"}],["$","link","12",{"rel":"icon","href":"/Copyright-Act-2023-Bangladesh/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1a","13",{}]]}]}]}],null]}]
+c:["$","$1","c",{"children":[null,["$","$L1b",null,{"parallelRouterKey":"children","template":["$","$L1c",null,{}]}]]}]
+f:["$","$1","c",{"children":[null,["$","$L1b",null,{"parallelRouterKey":"children","template":["$","$L1c",null,{}]}]]}]
+11:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/Copyright-Act-2023-Bangladesh/_next/static/chunks/22ej1wvwco515.css","precedence":"next"}],["$","script","script-0",{"src":"/Copyright-Act-2023-Bangladesh/_next/static/chunks/1mpnoxox0-4cg.js","async":true}]],["$","html",null,{"lang":"bn","children":["$","body",null,{"children":[["$","nav",null,{"className":"navbar glass","children":["$","div",null,{"className":"container navbar-container","children":[["$","$L1d",null,{"href":"/","className":"navbar-logo","aria-label":"Go to homepage","children":[["$","span",null,{"className":"logo-icon","aria-hidden":"true","children":"⚖️"}],["$","div",null,{"children":[["$","div",null,{"className":"logo-title","children":"কপিরাইট আইন"}],["$","div",null,{"className":"logo-subtitle","children":"বাংলাদেশ ২০২৩"}]]}]]}],["$","div",null,{"className":"navbar-links","role":"navigation","aria-label":"Main Navigation","children":[["$","$L1d",null,{"href":"/law","className":"nav-link","children":"আইন পড়ুন"}],["$","$L1d",null,{"href":"/topics","className":"nav-link","children":"বিষয়ভিত্তিক"}],["$","$L1d",null,{"href":"/guide","className":"nav-link","children":"গাইড"}],["$","$L1d",null,{"href":"/ai-copyright","className":"nav-link","children":"এআই ও কপিরাইট"}],["$","$L1d",null,{"href":"/original-source","className":"nav-link","children":"মূল উৎস"}],["$","$L1d",null,{"href":"/search","className":"nav-link nav-search","aria-label":"Search site","children":[["$","svg",null,{"aria-hidden":"true","width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","children":[["$","circle",null,{"cx":"11","cy":"11","r":"8"}],["$","line",null,{"x1":"21","y1":"21","x2":"16.65","y2":"16.65"}]]}],"অনুসন্ধান"]}]]}]]}]}],["$","main",null,{"children":["$","$L1b",null,{"parallelRouterKey":"children","template":["$","$L1c",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}]}]]}]
+17:null
+14:true
+9:300
+9:C
+13:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
+12:"$undefined"
+8:"$undefined"

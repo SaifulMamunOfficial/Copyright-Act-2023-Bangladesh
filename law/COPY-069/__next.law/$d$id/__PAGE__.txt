@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+2:I[65416,["/Copyright-Act-2023-Bangladesh/_next/static/chunks/1mpnoxox0-4cg.js","/Copyright-Act-2023-Bangladesh/_next/static/chunks/0vg52pntq442c.js"],"default"]
+4:I[97367,["/Copyright-Act-2023-Bangladesh/_next/static/chunks/1mpnoxox0-4cg.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/Copyright-Act-2023-Bangladesh/_next/static/chunks/1mpnoxox0-4cg.js"],"ViewportBoundary"]
+a:I[97367,["/Copyright-Act-2023-Bangladesh/_next/static/chunks/1mpnoxox0-4cg.js"],"MetadataBoundary"]
+:HL["/Copyright-Act-2023-Bangladesh/_next/static/chunks/3ec6_9v2h1qu5.css","style"]
+3:T1239,৬৯। (১) যদি কোনো ব্যক্তি কপিরাইটের মালিক বা বোর্ড কর্তৃক প্রদত্ত লাইসেন্স ব্যতীত বা লাইসেন্সের শর্ত বা কপিরাইট সমিতি কর্তৃক আরোপিত কোনো শর্ত লঙ্ঘনপূর্বক নিম্নবর্ণিত কোনো কার্য করেন, তাহা হইলে উক্তরূপ কার্য দ্বারা কোনো কর্মের কপিরাইট লঙ্ঘিত হইয়াছে বলিয়া গণ্য হইবে, যথা:-
+(ক)এইরূপ কিছু করা যাহা করিবার একচেটিয়া অধিকার এই আইন দ্বারা কপিরাইটের মালিককে প্রদান করা হইয়াছে; অথবা
+(খ) লাভবান হইবার উদ্দেশ্যে জনসাধারণ্যে এইরূপ কোনো কর্ম সম্পাদনের জন্য অনুমতি প্রদান করা যাহাতে কর্মটির কপিরাইট লঙ্ঘিত হয়, যদি না ইহা প্রমাণ করা হয় যে, বিষয়টি সম্পর্কে তিনি অবগত ছিলেন না বা অনুরূপ সম্পাদন কপিরাইটের লঙ্ঘন হইবে মর্মে বিশ্বাস করিবার কোনো যুক্তিসংগত কারণ ছিল না।
+(২) যদি কোনো ব্যক্তি নিম্নবর্ণিত কোনো কার্য করেন, তাহা হইলে উক্তরূপ কার্য দ্বারা কোনো কর্মের কপিরাইট লঙ্ঘিত হইয়াছে বলিয়া গণ্য হইবে, যথা:-
+(ক) কর্মটির বিক্রয় বা ভাড়া প্রদান করা বা বিক্রয় বা ভাড়া প্রদানের ব্যবস্থা করা অথবা বাণিজ্যিক উদ্দেশ্যে প্রদর্শন করা বা বিক্রয় বা ভাড়া প্রদানের প্রস্তাব করা;
+(খ) বাণিজ্যিক উদ্দেশ্যে অথবা কপিরাইটের মালিকের অধিকার ক্ষুণ্ণ হয় এইরূপ মাত্রায় উহার বিতরণ করা;
+(গ) বাণিজ্যিকভাবে উহা জনসাধারণকে প্রদর্শন করা;
+(ঘ) কোনো কর্মের অধিকার লঙ্ঘিত অনুলিপি বাংলাদেশে আমদানি করা;
+(ঙ) জাতীয় সংগীত, দেশাত্ববোধক ও ধর্মীয় সংগীত (হামদ্, নাত, গজল, কীর্তন, ইত্যাদি) এর কথা ও সুর পরিবর্তন করিয়া প্যারোডি বা ব্যঙ্গাত্মকভাবে উপস্থাপন করা; অথবা
+(চ) ইচ্ছাকৃতভাবে বা জ্ঞাতসারে অথবা অনুমতি ব্যতিরেকে কোনো কম্পিউটার প্রোগ্রাম, কম্পিউটার সিস্টেম, কম্পিউটার নেটওয়ার্ক, ডিজিটাল ডিভাইস, ডিজিটাল সিস্টেম, ডিজিটাল নেটওয়ার্কে বা সামাজিক যোগাযোগ মাধ্যমের কোনো তথ্য পরিবর্তন করা, মুছিয়া ফেলা, নূতন কোনো তথ্যের সংযুক্তি বা বিকৃতি ঘটানোর মাধ্যমে উহার মূল্য বা উপযোগিতা হ্রাস করা।
+ব্যাখ্যা।- এই ধারার উদ্দেশ্যপূরণকল্পে, সাহিত্য, নাটক, সংগীত বা অন্য কোনো শিল্পকর্মকে চলচ্চিত্রে রূপান্তর উহার অধিকার লঙ্ঘনকারী অনুলিপি বলিয়া গণ্য হইবে।8:X
+17:X
+17:C
+0:{"buildId":"JjtZzXh_1lTHwAxVIve95","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"section":{"id":"COPY-069","section_number":"69","title":"কপিরাইট লঙ্ঘন, ইত্যাদি","original_law_text":"$3","explanation":"এই ধারাটিতে মূল আইনের বিধান অনুযায়ী \"কপিরাইট লঙ্ঘন, ইত্যাদি\" সংক্রান্ত আইনি বিষয়াবলি ও এর প্রয়োগ নিয়ে আলোচনা করা হয়েছে।","examples":[],"faqs":[],"topics":[],"related_sections":[],"source":{"source_url":"https://bdlaws.minlaw.gov.bd/act-print-1452.html","source_name":"BD Laws","verified_at":"2026-09-20T07:22:31.714Z","law_version":"Original (2023)","effective_date":"2023-09-18T00:00:00Z"},"verification":{"law_text":"verified","explanation":"needs_review","examples":"needs_review","verified_by":null,"verified_at":null}},"chapterTitle":"অধ্যায় পঞ্চদশ অধ্যায়: কপিরাইট লঙ্ঘন, ইত্যাদি"}],[["$","link","0",{"rel":"stylesheet","href":"/Copyright-Act-2023-Bangladesh/_next/static/chunks/3ec6_9v2h1qu5.css","precedence":"next"}],["$","script","script-0",{"src":"/Copyright-Act-2023-Bangladesh/_next/static/chunks/0vg52pntq442c.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Copyright Act 2023 - বাংলাদেশ কপিরাইট আইন"}],["$","meta","1",{"name":"description","content":"বাংলাদেশের কপিরাইট আইন ২০২৩ এর সহজ বাংলা ব্যাখ্যা, ডিজিটাল কনটেন্ট, এআই, ও অন্যান্য কপিরাইট নিয়মকানুন জানুন।"}],["$","link","2",{"rel":"canonical","href":"https://copyright-act-bd.example.com"}],["$","meta","3",{"property":"og:title","content":"Copyright Act 2023 Bangladesh"}],["$","meta","4",{"property":"og:description","content":"বাংলাদেশের কপিরাইট আইনের সহজ বাংলা ব্যাখ্যা"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13"]}]}]}],null]}],"isPartial":"$@14","staleTime":"$8","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$8","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$8","varyParams":"$17"},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$8","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@1c","rootVaryParams":null,"needsRuntimeRequest":"$@1d"}
+1e:I[27201,["/Copyright-Act-2023-Bangladesh/_next/static/chunks/1mpnoxox0-4cg.js"],"IconMark"]
+1f:I[39756,["/Copyright-Act-2023-Bangladesh/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
+20:I[37457,["/Copyright-Act-2023-Bangladesh/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
+21:I[22016,["/Copyright-Act-2023-Bangladesh/_next/static/chunks/1mpnoxox0-4cg.js"],""]
+:HL["/Copyright-Act-2023-Bangladesh/_next/static/chunks/22ej1wvwco515.css","style"]
+6:null
+b:["$","meta","5",{"property":"og:url","content":"https://copyright-act-bd.example.com"}]
+c:["$","meta","6",{"property":"og:site_name","content":"Copyright Act BD"}]
+d:["$","meta","7",{"property":"og:locale","content":"bn_BD"}]
+e:["$","meta","8",{"property":"og:type","content":"website"}]
+f:["$","meta","9",{"name":"twitter:card","content":"summary"}]
+10:["$","meta","10",{"name":"twitter:title","content":"Copyright Act 2023 Bangladesh"}]
+11:["$","meta","11",{"name":"twitter:description","content":"বাংলাদেশের কপিরাইট আইনের সহজ বাংলা ব্যাখ্যা"}]
+12:["$","link","12",{"rel":"icon","href":"/Copyright-Act-2023-Bangladesh/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+13:["$","$L1e","13",{}]
+15:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+1a:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/Copyright-Act-2023-Bangladesh/_next/static/chunks/22ej1wvwco515.css","precedence":"next"}],["$","script","script-0",{"src":"/Copyright-Act-2023-Bangladesh/_next/static/chunks/1mpnoxox0-4cg.js","async":true}]],["$","html",null,{"lang":"bn","children":["$","body",null,{"children":[["$","nav",null,{"className":"navbar glass","children":["$","div",null,{"className":"container navbar-container","children":[["$","$L21",null,{"href":"/","className":"navbar-logo","aria-label":"Go to homepage","children":[["$","span",null,{"className":"logo-icon","aria-hidden":"true","children":"⚖️"}],["$","div",null,{"children":[["$","div",null,{"className":"logo-title","children":"কপিরাইট আইন"}],["$","div",null,{"className":"logo-subtitle","children":"বাংলাদেশ ২০২৩"}]]}]]}],["$","div",null,{"className":"navbar-links","role":"navigation","aria-label":"Main Navigation","children":[["$","$L21",null,{"href":"/law","className":"nav-link","children":"আইন পড়ুন"}],["$","$L21",null,{"href":"/topics","className":"nav-link","children":"বিষয়ভিত্তিক"}],["$","$L21",null,{"href":"/guide","className":"nav-link","children":"গাইড"}],["$","$L21",null,{"href":"/ai-copyright","className":"nav-link","children":"এআই ও কপিরাইট"}],["$","$L21",null,{"href":"/original-source","className":"nav-link","children":"মূল উৎস"}],["$","$L21",null,{"href":"/search","className":"nav-link nav-search","aria-label":"Search site","children":[["$","svg",null,{"aria-hidden":"true","width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","children":[["$","circle",null,{"cx":"11","cy":"11","r":"8"}],["$","line",null,{"x1":"21","y1":"21","x2":"16.65","y2":"16.65"}]]}],"অনুসন্ধান"]}]]}]]}]}],["$","main",null,{"children":["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}]}]]}]
+8:300
+1d:true
+8:C
+1c:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+1b:"$undefined"
+7:"$undefined"
